@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <title>Donnell Marquez Biography</title>
+ <link rel="stylesheet" href="css/style.css"/>
+ <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+ <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
+
+ <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
+ <link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic' rel='stylesheet' type='text/css'> 
+ <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+ <link href='http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911' rel='stylesheet' type='text/css'>
+ <script>
+ </script>
+</head>
+
+<body>
+<!----- HEADER START---> 
+<header id="header">
+<div class="content">
+<div id="logo"><a href=""> DBM BIOGRAPHY </a></div>
+<nav id="nav">
+ <ul>
+ <li><a href="#slide1" class="active" title="Next Section" >Home</a></li>
+ <li><a href="#slide2" title="Next Section">About</a></li>
+ <li><a href="#slide3" title="Next Section">Family</a></li>
+ <li><a href="#slide4" title="Next Section">Contact</a></li>
+ <li><a href="#slide5" title="Next Section">Gallery</a></li>
+ </ul>
+</nav>
+</div>
+</header>
+
+<!----- SLIDES START ---> 
+ <div id="slide1">
+ <div class="content">
+ <h2>DONNELL</h2>
+ <h1>MARQUEZ</h1>
+ <h3>PERSONAL WEBSITE </h3>
+ <div id="ribbon"></div>
+ <div id="new_year"> </div>
+ </div> 
+ </div> 
+ <div id="slide2">
+ <div class="content" >
+ <div class="quotes_container">
+ <h3 class="quotes">I'am a student of FEU-Institute of Technology taking Bachelor of Science in Information Technology Specialization on Digital Arts</h3>
+ </div> 
+ </div> 
+ </div> 
+ <div id="slide3">
+ <div class="content">
+ <div class="quotes_container">
+ <h3 class="quotes">This is my Family. We are five on my family, My Fathers name is Danilo Marquez and my Mothers name is Dominica Marquez. I have two siblings name Dominic Marquez which is my brother and my sisters name is Danica Marquez</h3>
+ </div> 
+ </div> 
+ </div> 
+ <div id="slide4">
+ <div class="content">
+ <div class="quotes_container">
+ <h3 class="quotes"> You can contact me on my email donnell.marquez26@yahoo.com or via phone this is my contact number 09060043150  </h3>
+ </div> 
+ </div> 
+ </div> 
+ <div id="slide5">
+ <div class="content">
+ <div class="quotes_container">
+ <h3 class="quotes"> </h3>
+
+ </div> 
+
+ </div> 
+ <!----- SLIDES END --->
+</body>
+</html>
